@@ -1,7 +1,7 @@
 {
   "routes": {
     "/**": {
-      "path": "index.html",
+      "path": "newindex.html",
       "excepts": [
         "/assets/*",
         "/api/**"
