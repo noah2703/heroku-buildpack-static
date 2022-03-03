@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/*.html": "index.html",
+    "/*.html": "newindex.html",
     "/route/**": "route.html"
   }
 }
